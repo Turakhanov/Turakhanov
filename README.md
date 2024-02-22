@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Turakhanov
+- 👋 Hi, I’m Data Wizard
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on ...
